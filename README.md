@@ -7,6 +7,9 @@ It empowers data scientists and analysts to automatically identify the most rele
 
 The tool supports a variety of statistical methods such as Correlation Coefficient, Chi-Square Test, ANOVA, Mutual Information, and Variance Threshold, along with automatic transformation of categorical data.
 
+# Watch the demo of the project at:
+[![Watch the demo](images-videos/thumbnail.png)](https://youtu.be/BVdRvofCRZA)
+
 ## 🗂️ Table of Contents
 - [Project Setup](#setup)
 - [Features](#features)
@@ -14,8 +17,7 @@ The tool supports a variety of statistical methods such as Correlation Coefficie
 - [File Upload](#file-upload)
 - [Feature Selection Methods](#feature-selection-methods)
 
-# Watch the demo of the project at:
-[![Watch the demo]()](https://youtu.be/BVdRvofCRZA)
+
 
 ---
 
