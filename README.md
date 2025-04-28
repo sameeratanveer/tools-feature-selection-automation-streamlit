@@ -14,6 +14,9 @@ The tool supports a variety of statistical methods such as Correlation Coefficie
 - [File Upload](#file-upload)
 - [Feature Selection Methods](#feature-selection-methods)
 
+# Watch the demo of the project at:
+[![Watch the demo]()](https://youtu.be/BVdRvofCRZA)
+
 ---
 
 
