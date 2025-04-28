@@ -9,11 +9,10 @@ The tool supports a variety of statistical methods such as Correlation Coefficie
 
 ## 🗂️ Table of Contents
 - [Project Setup](#setup)
-- [Dependencies](#-dependencies)
-- [Features](#-features)
-- [Usage](#-usage)
-- [File Upload](#-file-upload)
-- [Feature Selection Methods](#-feature-selection-methods)
+- [Features](#features)
+- [Usage](#usage)
+- [File Upload](#file-upload)
+- [Feature Selection Methods](#feature-selection-methods)
 
 ---
 
